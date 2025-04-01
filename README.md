@@ -19,4 +19,6 @@ To run the maze solver on your local machine, follow these steps:
    cd maze-solver
    
 2. pip install -r requirements.txt
-3. Python 3 is recommended so check your python version - python --version
+3. Python 3 is recommended so check your python version
+   ```bash
+   python --version
