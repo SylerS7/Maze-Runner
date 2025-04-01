@@ -4,7 +4,7 @@ This project implements a maze solver that utilizes search algorithms to find th
 
 ## Features
 
-- **Solves mazes** using DFS or BFS.
+- **Solves mazes** using DFS or BFS (Default = DFS).
 - **Visualizes** the maze and the solution path.
 - Allows you to **create and test custom mazes**.
 - **Detects invalid mazes** (e.g., missing start or goal).
