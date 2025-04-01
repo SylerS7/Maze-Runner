@@ -14,7 +14,7 @@ This project implements a maze solver that utilizes search algorithms to find th
 To run the maze solver on your local machine, follow these steps:
 
 1. Clone the repository:
-   
+   ```bash
    git clone https://github.com/yourusername/maze-solver.git
    cd maze-solver
    
